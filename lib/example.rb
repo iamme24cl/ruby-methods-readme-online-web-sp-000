@@ -1,10 +1,10 @@
 # Use this space to code along with the readme
 
 phrase = "Hello World!"
-output = phrase * 10 
+
 
 def print_ten_times
-   puts output
+   puts phrase * 10
 end
 
 print_ten_times

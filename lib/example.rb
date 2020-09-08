@@ -4,7 +4,7 @@
 
 
 def print_ten_times
-  phrase = "Hello World!"
+  phrase = "Hello World!\n"
   puts phrase * 10
 end
 
